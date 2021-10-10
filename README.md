@@ -11,7 +11,7 @@
 
 
 
-  ![RandilCPiumantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandilCPiumantha&show_icons=true&theme=highcontrast&count_private=true)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandilCPiumantha&langs_count=5)](https://github.com/RandilCPiumantha/github-readme-stats)
+  ![RandilCPiumantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandilCPiumantha&show_icons=true&theme=dracula&count_private=true)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandilCPiumantha&langs_count=5&theme=dracula)](https://github.com/RandilCPiumantha/github-readme-stats)
 
 ## Languages and Tools ##
 <p align="center">
