@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/{RandilCPiumantha}/count.svg)
+
 ### Hi there I'm Randil C Piumantha 👋
 
 
