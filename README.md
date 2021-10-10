@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.laobi.icu/badge?page_id=RandilCPiumantha.RandilCPiumantha)
 
   ![RandilCPiumantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandilCPiumantha&show_icons=true&theme=radical&count_private=true)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandilCPiumantha&langs_count=5)](https://github.com/RandilCPiumantha/github-readme-stats)
 
-## 🧰 Languages and Tools:
+## Languages and Tools ##
 <p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
