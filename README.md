@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 
 
-![](https://komarev.com/ghpvc/?username=RandilCPiumantha)
   ![RandilCPiumantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandilCPiumantha&show_icons=true&theme=radical&count_private=true)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandilCPiumantha&langs_count=5)](https://github.com/RandilCPiumantha/github-readme-stats)
 
