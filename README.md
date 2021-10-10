@@ -1,19 +1,14 @@
-### Hi there I'm Randil Piumantha 👋
+### Hi there I'm Randil C Piumantha 👋
 
-<!--
-**RandilCPiumantha/RandilCPiumantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 I’m currently an Computer Science undergraduate at Uva Wellassa University of Sri Lanka
+🔭 I’m currently developing a web app with Angular 12.
+🌱 I’m currently learning Flutter.
+👯 I’m looking to collaborate with anyone on any project.
+💬 Ask me about anything
+⚡ Fun fact: I love playing computer games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
 
 
   ![RandilCPiumantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandilCPiumantha&show_icons=true&theme=radical&count_private=true)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandilCPiumantha&langs_count=5)](https://github.com/RandilCPiumantha/github-readme-stats)
