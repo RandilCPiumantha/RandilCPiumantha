@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?RandilCPiumantha=your-github-RandilCPiumantha&color=green)
+![](https://komarev.com/ghpvc/?RandilCPiumantha=your-github-RandilCPiumantha&label=PROFILE+VIEWS)
 
 ### Hi there I'm Randil C Piumantha 👋
 
