@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{RandilCPiumantha}/count.svg)
+![GitHub Views](https://komarev.com/ghpvc/?username=<RandilCPiumantha>)
 
 ### Hi there I'm Randil C Piumantha 👋
 
