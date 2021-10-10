@@ -15,13 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![RandilCPiumantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandilCPiumantha&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandilCPiumantha)](https://github.com/RandilCPiumantha/github-readme-stats)
+
 
 <a href="https://github.com/RandilCPiumantha/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RandilCPiumantha&repo=github-readme-stats" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandilCPiumantha)](https://github.com/RandilCPiumantha/github-readme-stats)
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=RandilCPiumantha&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/RandilCPiumantha/convoychat">
+  ![RandilCPiumantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandilCPiumantha&show_icons=true&theme=radical&count_private=true)
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RandilCPiumantha&repo=convoychat" />
 </a>
