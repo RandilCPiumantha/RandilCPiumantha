@@ -13,8 +13,8 @@
 
 
 
-<!-- 
-  ![RandilCPiumantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandilCPiumantha&show_icons=true&theme=radical&count_private=true)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandilCPiumantha&langs_count=5&theme=radical)](https://github.com/RandilCPiumantha/github-readme-stats) -->
+
+  ![RandilCPiumantha's GitHub stats](https://github-readme-stats.vercel.app/api?username=RandilCPiumantha&show_icons=true&theme=radical&count_private=true)        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandilCPiumantha&langs_count=3&theme=radical)](https://github.com/RandilCPiumantha/github-readme-stats)
 
 ## Languages and Tools ##
 <p align="center">
